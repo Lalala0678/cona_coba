@@ -75,6 +75,6 @@ Question/request: Write a paragraph about the capital of France.
 Answer: Paris (pronounced: ps-LAK) is the capital and largest city of France. It is a global city and one of the most popular tourist destinations in the world, with a estimated          10.17 million international tourist arrivals in 2014.
 ---------------------------------------------------------------------------
 ```
-  <li> demo_wml_api_with_streamlit
+  <li> demo_wml_api_with_streamlit ![image alt]https://github.com/Lalala0678/cona_coba/blob/a50d86c2a41c8a62791974e9991048c119722c72/Screenshot%202024-12-14%20131954.png
 
 
